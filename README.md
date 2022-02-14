@@ -1,6 +1,6 @@
-# Homebrew Library
+# 🍺 Homebrew Library
 
-This repository is a [Homebrew](https://brew.sh) library for personal use.
+This repository is a [Homebrew](https://brew.sh) tap for personal use.
 
 ## Usage
 ```shell
