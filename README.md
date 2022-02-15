@@ -9,9 +9,9 @@ brew tap henryhchchc/library
 
 ## Formulas
 
-| Package | Version |
-| ------- | ------- |
-| N/A     | `N/A`   |
+| Package                                                                     | Version   |
+| --------------------------------------------------------------------------- | --------- |
+| [Language Client NeoVim](https://github.com/autozimu/LanguageClient-neovim) | `0.1.161` |
 
 ## Casks
 | Package                                                            | Version        |
