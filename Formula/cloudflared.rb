@@ -1,8 +1,8 @@
 class Cloudflared < Formula
   desc "Argo Tunnel client"
   homepage "https://developers.cloudflare.com/argo-tunnel/"
-  url "https://github.com/cloudflare/cloudflared/archive/refs/tags/2022.2.0.tar.gz"
-  sha256 "5be822b9d6df9f53bb52e6670921922aeeb13705d66605f831ab68bb902c316a"
+  url "https://github.com/cloudflare/cloudflared/archive/refs/tags/2022.2.1.tar.gz"
+  sha256 "4c1401d2d5a0fa13d91020cf117ca2a0190e0a8a455ff66330a7409c229d11a1"
   license "Proprietary"
 
   depends_on "go" => :build

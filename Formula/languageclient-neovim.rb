@@ -1,8 +1,7 @@
 class LanguageclientNeovim < Formula
   desc "Language Server Protocol (LSP) support for vim and neovim."
   homepage "https://github.com/autozimu/LanguageClient-neovim"
-  version "0.1.161"
-  url "https://github.com/autozimu/LanguageClient-neovim/archive/refs/tags/#{version}.tar.gz"
+  url "https://github.com/autozimu/LanguageClient-neovim/archive/refs/tags/0.1.161.tar.gz"
   sha256 "0fc542e3f188ea998fdd74372d45f522be94614a04011cb11b244d81b25a738c"
   license "MIT"
 
