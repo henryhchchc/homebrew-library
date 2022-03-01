@@ -15,8 +15,6 @@ brew tap henryhchchc/library
 | Package                                                                     | Version    |
 | --------------------------------------------------------------------------- | ---------- |
 | [cloudflared](https://github.com/cloudflare/cloudflared)                    | `2022.2.1` |
-| [Language Client NeoVim](https://github.com/autozimu/LanguageClient-neovim) | `0.1.161`  |
-| [Pynvim](https://github.com/neovim/pynvim)                                  | `0.4.3`    |
 
 ## Casks
 | Package                                                                                                    | Version        |
