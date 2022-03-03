@@ -14,7 +14,6 @@ brew tap henryhchchc/library
 
 | Package                                                                     | Version    |
 | --------------------------------------------------------------------------- | ---------- |
-| [cloudflared](https://github.com/cloudflare/cloudflared)                    | `2022.2.1` |
 
 ## Casks
 | Package                                                                                                    | Version        |
