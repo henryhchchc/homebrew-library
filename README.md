@@ -18,5 +18,5 @@ brew tap henryhchchc/library
 ## Casks
 | Package                                                                                                    | Version        |
 | ---------------------------------------------------------------------------------------------------------- | -------------- |
-| [Adobe Acrobat Font Pack](https://helpx.adobe.com/acrobat/kb/macintosh-font-packs--acrobat---reader-.html) | `21.007.20091` |
-| [JetBrains Runtime](https://github.com/JetBrains/JetBrainsRuntime)                                         | `17.0.2b315.1` |
+| [Adobe Acrobat Font Pack](https://helpx.adobe.com/acrobat/kb/macintosh-font-packs--acrobat---reader-.html) | `22.001.20085` |
+| [JetBrains Runtime](https://github.com/JetBrains/JetBrainsRuntime)                                         | `17.0.2b396.4` |
