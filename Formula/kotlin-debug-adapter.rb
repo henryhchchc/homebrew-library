@@ -6,10 +6,10 @@ class KotlinDebugAdapter < Formula
   license "MIT"
 
   depends_on "gradle" => :build
-  depends_on "openjdk@11"
+  depends_on "openjdk"
 
   def install
-    ENV["JAVA_HOME"] = Language::Java.java_home("11")
+    ENV["JAVA_HOME"] = Language::Java.java_home
     #  Remove Windows files
     rm "gradlew.bat"
 
@@ -18,7 +18,7 @@ class KotlinDebugAdapter < Formula
     libexec.install Dir["adapter/build/install/adapter/*"]
 
     (bin/"kotlin-debug-adapter").write_env_script libexec/"bin/kotlin-debug-adapter",
-      Language::Java.overridable_java_home_env("11")
+      Language::Java.overridable_java_home_env
   end
 
   test do
